@@ -1,0 +1,17 @@
+{
+  "name": "com.fpspackage",
+  "version": "1.2.3",
+  "displayName": "framerate",
+  "description": "This tool menu option whatever",
+  "unity": "2020.1",
+  "unityRelease": "1f1",
+  "keywords": [
+    "framerate"
+  ],
+  "author": {
+    "name": "StevenHeckman",
+    "email": "kit.heckman@gmail.com",
+    "url": "www.kitsgamedevblog.wordpress.com"
+  },
+  "type": "tool"
+}
