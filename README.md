@@ -1,0 +1,2 @@
+This package will transform a string into a string of the current framerate.
+Under namespace fpstool, and with #include fpstool, <yourstring>.fpstool() or "".fpstool() will return the current framerate.
