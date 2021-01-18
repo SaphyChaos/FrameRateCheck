@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/nkcyborg/fpstool/tree/main/images/Screenshot_9.png)
+![Logo of the project](https://raw.githubusercontent.com/nkcyborg/fpstool/main/images/Screenshot_9.png)
 # fpstool
 > A tool for measuring the frame rate.
 Steven Heckman 1/14/2021.
