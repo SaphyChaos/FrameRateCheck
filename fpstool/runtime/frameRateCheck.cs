@@ -10,7 +10,6 @@ namespace fpstool
         // Update is called once per frame
         public static string showfps(this string text)
         {
-            //return $"<color=#{ColorUtility.ToHtmlStringRGB(color)}>{text}</color>";
             return (1/Time.deltaTime).ToString();
         }
     }
