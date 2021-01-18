@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/nkcyborg/fpstool/tree/main/images/Screenshot_9.png)
+![Logo of the project](https://github.com/nkcyborg/fpstool/tree/main/images/Screenshot_9.png?raw=true)
 # fpstool
 > A tool for measuring the frame rate.
 Steven Heckman 1/14/2021.
@@ -13,7 +13,7 @@ A very simple Unity custom package; converts a string into the current framerate
 
 You can also visit the [website](https://nkcyborg.github.io/fpstool/) to see more, included a video demonstration. This site was built using [GitHub Pages](https://pages.github.com/).
 
-![Code of the package](https://github.com/nkcyborg/fpstool/tree/main/images/Screenshot_10.png)
+![Code of the package](https://github.com/nkcyborg/fpstool/tree/main/images/Screenshot_10.png?raw=true)
 
 ## Code Examples
 
@@ -47,7 +47,7 @@ namespace fpstool
 ```
 **Note: If you call this function every frame, the exact fps will be hard to read because it will constantly be updating.**
 
-![video demonstration thumbnail](https://github.com/nkcyborg/fpstool/tree/main/images/Screenshot_2.png)
+![video demonstration thumbnail](https://github.com/nkcyborg/fpstool/tree/main/images/Screenshot_2.png?raw=true)
 
 Here is the code used in the video demonstration:
 ```
