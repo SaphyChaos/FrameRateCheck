@@ -1,4 +1,4 @@
-![Logo of the project](https://raw.githubusercontent.com/nkcyborg/fpstool/main/images/Screenshot_9.png)
+![Logo of the project](https://raw.githubusercontent.com/nkcyborg/FrameRateCheck/main/images/Screenshot_9.png)
 # FrameRateCheck
 > A tool for measuring the frame rate.
 Steven Heckman 1/14/2021.
@@ -12,11 +12,11 @@ A very simple Unity custom package; This package contains a ui Text object prefa
 - To be viewed in your UI, object should be the child of a *Canvas* object, or referenced by one.
 - The size, color and font as well as any other text features can be edited in the text object.
 
-You can also visit the [website](https://nkcyborg.github.io/fpstool/) to see more, included a video demonstration. This site was built using [GitHub Pages](https://pages.github.com/).
+You can also visit the [website](https://nkcyborg.github.io/FrameRateCheck/) to see more, included a video demonstration. This site was built using [GitHub Pages](https://pages.github.com/).
 
-![Code of the package](https://raw.githubusercontent.com/nkcyborg/fpstool/main/images/Screenshot_10.png)
+![Code of the package](https://raw.githubusercontent.com/nkcyborg/FrameRateCheck/main/images/Screenshot_10.png)
 
-![video demonstration thumbnail](https://raw.githubusercontent.com/nkcyborg/fpstool/main/images/screenshot_2.jpg)
+![video demonstration thumbnail](https://raw.githubusercontent.com/nkcyborg/FrameRateCheck/main/images/screenshot_2.jpg)
 
 
 ## Art Citations
