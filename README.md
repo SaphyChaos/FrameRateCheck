@@ -1,5 +1,5 @@
 ![Logo of the project](https://raw.githubusercontent.com/nkcyborg/fpstool/main/images/Screenshot_9.png)
-# fpstool
+# FrameRateCheck
 > A tool for measuring the frame rate.
 Steven Heckman 1/14/2021.
 Contact at kit.heckman@gmail.com.
