@@ -14,7 +14,7 @@ A very simple Unity custom package; This package contains a ui Text object prefa
 
 You can also visit the [website](https://nkcyborg.github.io/FrameRateCheck/) to see more, included a video demonstration. This site was built using [GitHub Pages](https://pages.github.com/).
 
-![Code of the package](https://github.com/nkcyborg/FrameRateCheck/blob/assets/images/Screenshot_10.png
+![Code of the package](https://github.com/nkcyborg/FrameRateCheck/blob/assets/images/Screenshot_10.png)
 
 ![video demonstration thumbnail](https://github.com/nkcyborg/FrameRateCheck/blob/assets/images/screenshot_2.jpg)
 
