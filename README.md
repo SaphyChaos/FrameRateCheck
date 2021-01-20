@@ -1,4 +1,4 @@
-![Logo of the project](https://raw.githubusercontent.com/nkcyborg/FrameRateCheck/blob/assets/images/Screenshot_10.png
+![Logo of the project](https://raw.githubusercontent.com/nkcyborg/FrameRateCheck/blob/assets/images/Screenshot_10.png)
 # FrameRateCheck
 > A tool for measuring the frame rate.
 Steven Heckman 1/14/2021.
