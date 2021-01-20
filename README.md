@@ -1,5 +1,4 @@
-![Logo of the project](https://raw.githubusercontent.com/nkcyborg/FrameRateCheck/blob/assets/images/Screenshot_9.png)
-![test](https://github.com/nkcyborg/FrameRateCheck/blob/assets/images/Screenshot_9.png) 
+![Logo of the project](https://github.com/nkcyborg/FrameRateCheck/blob/assets/images/Screenshot_9.png) 
 # FrameRateCheck
 > A tool for measuring the frame rate.
 Steven Heckman 1/14/2021.
@@ -15,9 +14,9 @@ A very simple Unity custom package; This package contains a ui Text object prefa
 
 You can also visit the [website](https://nkcyborg.github.io/FrameRateCheck/) to see more, included a video demonstration. This site was built using [GitHub Pages](https://pages.github.com/).
 
-![Code of the package](https://raw.githubusercontent.com/nkcyborg/FrameRateCheck/main/images/Screenshot_10.png)
+![Code of the package](https://github.com/nkcyborg/FrameRateCheck/blob/assets/images/Screenshot_10.png
 
-![video demonstration thumbnail](https://raw.githubusercontent.com/nkcyborg/FrameRateCheck/main/images/screenshot_2.jpg)
+![video demonstration thumbnail](https://github.com/nkcyborg/FrameRateCheck/blob/assets/images/screenshot_2.jpg)
 
 
 ## Art Citations
